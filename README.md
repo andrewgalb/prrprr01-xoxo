@@ -5,7 +5,6 @@ I denna uppgift ska du skriva ett spel - luffarschack , eller som det heter på 
 [Klicka här för att se demo:n](https://youtu.be/Ue3ghlTPtH4)
 
 ## Krav
-+ Innan du börjar koda ska du skriva ett aktivitetsdiagram och pseudokod för hur du tänker lösa uppgiften. Dessa lämnas sedan in i samma map som din kod.
 + Spelet ska spelas av två spelare som turas om att mata in var de lägger sin O eller X.
 + Spelbräden är 3x3.
 + Spelet fortsätter tills en av spelarna får tre i rad.
