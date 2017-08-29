@@ -1,6 +1,6 @@
 # XOXO - Luffarschack
 
-I denna uppgift ska du skriva ett spel - Luffarschack , eller som det heter på engelska XyOzies.  Programmet är som konsolbaserad.
+I denna uppgift ska du skriva ett spel - luffarschack , eller som det heter på engelska xyOzies.  Programmet är konsolbaserad.
 
 [Klicka här för att se demo:n](https://youtu.be/Ue3ghlTPtH4)
 
