@@ -2,8 +2,6 @@
 
 I denna uppgift ska du skriva ett spel - luffarschack , eller som det heter på engelska xyOzies.  Programmet är konsolbaserad.
 
-[Klicka här för att se demo:n](https://youtu.be/Ue3ghlTPtH4)
-
 ## Krav
 + Spelet ska spelas av två spelare som turas om att mata in var de lägger sin O eller X.
 + Spelbräden är 3x3.
